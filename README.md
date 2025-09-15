@@ -7,7 +7,7 @@ Using six years of ATP data (2019–2024), I simulated the 2025 US Open. But ins
 
 Combining those assumptions with the data, I calculated features like mental toughness, physical conditioning, and adaptability, then ran predictive models and 10,000 tournament simulations. The results consistently showed Djokovic, Sinner, and of course Alcaraz as the strongest contenders.
 
-I know it has its limitations — it only accounts for results up to 2024 and not the current season — but that was part of the fun. This wasn’t about being “perfectly accurate.” It was about experimenting, learning, and finding joy in using data to tell stories about a sport I love. 
+I know it has its limitations , it only accounts for results up to 2024 and not the current season, but that was part of the fun. This wasn’t about being “perfectly accurate.” It was about experimenting, learning, and finding joy in using data to tell stories about a sport I love. 
 
 
 
